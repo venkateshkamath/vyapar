@@ -1,0 +1,27 @@
+.exp-button {
+    font-size: 400px;
+    border-radius: 15px;
+    border-color: white;
+    background: transparent;
+    transition: all 0.1s;
+    border:1.5px solid white;
+
+}
+.exp-button:hover {
+    transform: scale(1.2);
+    background-color: black;
+    border:1.5px solid black;
+}
+button h6:hover {
+    /*color: black !important;*/
+}
+.logo-img {
+   align-items: center;
+   text-align: center;
+   display: flex;
+   margin-top: 20px;
+}
+ span{
+	font-family: 'Roboto', sans-serif;
+	
+}
